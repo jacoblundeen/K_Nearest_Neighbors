@@ -1,0 +1,22 @@
+The Cancer data, with target variable class, is a classification problem.
+Hyperparameter tuning took: 0.06 minutes.
+The hyperparameter K is tune to: 6
+
+KNN with no reduction took: 0.054 minutes.
+The Precision score is: 0.591
+The Recall score is: 0.564
+The F1 score is: 0.311
+
+The size of the data set before CNN was: 560
+The size of the data set after CNN is:   7
+KNN with CNN reduction took: 0.004 minutes.
+The Precision score is: 0.188
+The Recall score is: 0.75
+The F1 score is: 0.161
+
+The size of the data set before ENN was: 560
+The size of the data set after ENN is: 282
+KNN with ENN reduction took: 0.125 minutes.
+The Precision score is: 0.245
+The Recall score is: 0.5
+The F1 score is: 0.242

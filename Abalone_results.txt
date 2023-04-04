@@ -1,0 +1,24 @@
+The Abalone data, with target variable rings, is a regression problem.
+Hyperparameter tuning took: 476.156 minutes.
+The hyperparameter K is tune to: 9
+The hyperparameter σ is tuned to: 4.474
+The hyperparameter ε is tuned to: 1.0
+
+KNN with no reduction took: 1.529 minutes.
+The R² is: 0.652
+The Pearsons Correlation is: 0.818
+The MSE is: 0.348
+
+The size of the data set before CNN was: 3342
+The size of the data set after CNN is: 1101
+KNN with CNN reduction took: 4.927 minutes.
+The R² is: 0.384
+The Pearsons Correlation is: 0.634
+The MSE is: 0.887
+
+The size of the data set before ENN was: 3342
+The size of the data set after ENN is: 2021
+KNN with ENN reduction took: 4.362 minutes.
+The R² is: 0.714
+The Pearsons Correlation is: 0.848
+The MSE is: 0.123

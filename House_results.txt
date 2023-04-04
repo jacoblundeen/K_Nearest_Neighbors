@@ -1,0 +1,22 @@
+The House data, with target variable class_republican, is a classification problem.
+Hyperparameter tuning took: 0.035 minutes.
+The hyperparameter K is tune to: 6
+
+KNN with no reduction took: 0.028 minutes.
+The Precision score is: 0.448
+The Recall score is: 0.943
+The F1 score is: 0.179
+
+The size of the data set before CNN was: 349
+The size of the data set after CNN is:   5
+KNN with CNN reduction took: 0.002 minutes.
+The Precision score is: 0.125
+The Recall score is: 0.417
+The F1 score is: 0.083
+
+The size of the data set before ENN was: 349
+The size of the data set after ENN is: 329
+KNN with ENN reduction took: 0.076 minutes.
+The Precision score is: 0.468
+The Recall score is: 0.961
+The F1 score is: 0.236

@@ -1,0 +1,22 @@
+The Cars data, with target variable class, is a classification problem.
+Hyperparameter tuning took: 0.238 minutes.
+The hyperparameter K is tune to: 7
+
+KNN with no reduction took: 0.3 minutes.
+The Precision score is: 0.777
+The Recall score is: 0.808
+The F1 score is: 0.229
+
+The size of the data set before CNN was: 1384
+The size of the data set after CNN is:  14
+KNN with CNN reduction took: 0.008 minutes.
+The Precision score is: 0
+The Recall score is: 0.292
+The F1 score is: 0.0
+
+The size of the data set before ENN was: 1384
+The size of the data set after ENN is: 1036
+KNN with ENN reduction took: 0.913 minutes.
+The Precision score is: 0.714
+The Recall score is: 0.888
+The F1 score is: 0.454

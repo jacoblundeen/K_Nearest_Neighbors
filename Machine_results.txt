@@ -1,0 +1,24 @@
+The Machine data, with target variable erp, is a regression problem.
+Hyperparameter tuning took: 10.512 minutes.
+The hyperparameter K is tune to: 2
+The hyperparameter σ is tuned to: 5.0
+The hyperparameter ε is tuned to: 0.447
+
+KNN with no reduction took: 0.015 minutes.
+The R² is: 0.035
+The Pearsons Correlation is: 0.209
+The MSE is: 0.958
+
+The size of the data set before CNN was: 168
+The size of the data set after CNN is:  37
+KNN with CNN reduction took: 0.011 minutes.
+The R² is: -0.225
+The Pearsons Correlation is: 0.102
+The MSE is: 3.464
+
+The size of the data set before ENN was: 168
+The size of the data set after ENN is:  87
+KNN with ENN reduction took: 0.017 minutes.
+The R² is: -0.578
+The Pearsons Correlation is: 0.152
+The MSE is: 0.152

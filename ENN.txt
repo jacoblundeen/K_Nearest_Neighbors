@@ -1,0 +1,3 @@
+
+The original length of the training set is: 3342
+These are the size of the training set after ENN: 3342

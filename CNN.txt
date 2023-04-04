@@ -1,0 +1,3 @@
+
+The original length of the fold is: 3342
+The size of the Z set after CNN is: 1075
